@@ -1,0 +1,4 @@
+# 安裝 Tesseract OCR 和 pytesseract
+!apt install tesseract-ocr
+!pip install pytesseract
+!pip install matplotlib
